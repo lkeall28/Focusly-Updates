@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="Focusly-0.1.0.zip" length="5035560" type="application/octet-stream" sparkle:edSignature="nBjpXa3NsiujOGSJSejlkTS5pmL7tlKDD2aUzJjAtXzGqCIWiHqgghUV4Epfru97cDDV68RZoeJf1inMO4tlDw=="/>
+            <enclosure url="https://github.com/lkeall28/Focusly-Updates/releases/download/v0.1.0/Focusly-0.1.0.zip" length="5035560" type="application/octet-stream" sparkle:edSignature="nBjpXa3NsiujOGSJSejlkTS5pmL7tlKDD2aUzJjAtXzGqCIWiHqgghUV4Epfru97cDDV68RZoeJf1inMO4tlDw=="/>
         </item>
     </channel>
 </rss>
